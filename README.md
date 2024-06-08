@@ -17,7 +17,7 @@
 
 ## :man_technologist: About me:
 
-I'm Kasym from Kygryzstan, and I'm really passionate about coding. 
+I'm Kasym from Kygryzstan, and I'm really passionate about coding and creating beautiful and multifunctional websites with responsive design. 
 
 ---
 
