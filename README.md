@@ -7,15 +7,14 @@ I'm Kasym from Kyrgyzstan, and I'm really passionate about coding.
   <a href="https://www.instagram.com/___kasym/">
     <img src="https://camo.githubusercontent.com/3ad821fc2ec8e5389509e2262efe64bbab486ae3bfa9abf43bae910f1d3fc134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://www.instagram.com/___kasym/">
-    <img src="https://camo.githubusercontent.com/3ad821fc2ec8e5389509e2262efe64bbab486ae3bfa9abf43bae910f1d3fc134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/144px-LinkedIn_icon.svg.png?20210220164014;logoColor=white" style="max-width: 100%;">
+  <a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 ---
 
 ## :man_technologist: About me:
-
 
 
 ---
