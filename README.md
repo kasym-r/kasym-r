@@ -32,3 +32,7 @@ I'm Kasym from Kyrgyzstan, and I'm really passionate about coding.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>
   
 </div>
+
+---
+
+## :bar_chart: Stats:
