@@ -5,12 +5,12 @@ I'm Kasym from Kyrgyzstan, and I'm really passionate about coding.
 ## :globe_with_meridians: Find me in social media:
 
 <div id="badges">
-  <p href="https://www.instagram.com/___kasym/">
+  <a href="https://www.instagram.com/___kasym/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </p> 
-  <p href="https://www.linkedin.com/in/kasym-rakhmatyllo-638550312/">
+  </a> 
+  <a href="https://www.linkedin.com/in/kasym-rakhmatyllo-638550312/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </p>
+  </a>
 </div>
 
 ---
