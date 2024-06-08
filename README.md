@@ -49,4 +49,3 @@ I'm Kasym from Kygryzstan, and I'm really passionate about coding and creating b
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&amp;theme=slateorange)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasym-r&theme=slateorange)
