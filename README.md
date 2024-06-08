@@ -43,6 +43,6 @@ I'm Kasym from Kygryzstan, and I'm really passionate about coding and creating b
 
 ## :bar_chart: Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kasym-r&theme=dark&border_radius=5)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com?user=kasym-r&theme=dark&border_radius=5)](https://git.io/streak-stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats
