@@ -12,3 +12,7 @@ I'm Kasym from Kyrgyzstan, and I'm really passionate about coding.
 ---
 
 ## :man_technologist: About me:
+
+---
+
+## :hammer_and_wrench: Technical stack:
