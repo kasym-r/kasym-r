@@ -37,4 +37,4 @@ I'm Kasym from Kyrgyzstan, and I'm really passionate about coding.
 
 ## :bar_chart: Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kasym-r&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kasym-r&theme=dark&background=000000&color=000000)](https://git.io/streak-stats)
