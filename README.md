@@ -42,10 +42,8 @@ I'm Kasym from Kygryzstan, and I'm really passionate about coding and creating b
 ---
 
 ## :bar_chart: Stats:
-<div>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kasym-r&theme=slateorange)
-</div>
+
+![](https://github-readme-stats.vercel.app/api?username=kasym-r&show_icons=true&theme=slateorange)
 <img src="https://camo.githubusercontent.com/575f1179f7ca10b45d6650829617877745f6c79f926e6c224ad1c0f80b44e7e3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d41727475724475697368656576267468656d653d736c6174656f72616e676526686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=kasym-r&amp;theme=slateorange&amp;hide_border=false" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/3d8e7952d1de80789fc9b0e58cf7f0794cdc05d3653b3d9c479f41912e54348a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d41727475724475697368656576267468656d653d736c6174656f72616e676526686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&amp;theme=slateorange&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" style="max-width: 100%;">
 
