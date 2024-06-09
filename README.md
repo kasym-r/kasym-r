@@ -5,7 +5,7 @@
 ## :globe_with_meridians: Find me in social media:
 
 <div align="center" id="badges">
-  <a href="https://www.instagram.com/___kasym/">
+  <a text-decoration: none; href="https://www.instagram.com/___kasym/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> 
   <a href="https://www.linkedin.com/in/kasym-rakhmatyllo-638550312/">
