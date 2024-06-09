@@ -47,5 +47,5 @@ I'm Kasym from Kygryzstan, and I'm really passionate about coding and creating b
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kasym-r&amp;theme=slateorange)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&layout=compact&theme=slateorange)
 
