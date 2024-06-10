@@ -20,7 +20,8 @@
 
 ## :man_technologist: About me:
 
-I'm Kasym from Kygryzstan, and I'm really passionate about coding and creating beautiful and multifunctional websites with responsive design. 
+I'm Kasym from Kygryzstan, and I'm really passionate about coding and creating beautiful and multifunctional websites with responsive design. I have an experience in creating various landing pages, e-commerce websites,
+etc. (with responsive design ofc.)
 
 ---
 
