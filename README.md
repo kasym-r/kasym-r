@@ -44,6 +44,7 @@ etc. (with responsive design ofc.). Additionally, I have some background in work
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" **alt="Vercel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
