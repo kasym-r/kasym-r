@@ -21,7 +21,7 @@
 ## :man_technologist: About me:
 
 I'm Kasym from Kygryzstan, and I'm really passionate about coding and creating beautiful and multifunctional websites with responsive design. I have an experience in creating various landing pages, e-commerce websites,
-etc. (with responsive design ofc.)
+etc. (with responsive design ofc.). Additionally, I have some background in working with css preprocessors like SASS and css frameworks like Tailwind. I also created websited using React via using Next.js or TypeScript as well. Always glad to execute your queries.
 
 ---
 
