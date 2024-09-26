@@ -1,8 +1,4 @@
-## Welcome!
-
-___
-
-# 📨 Find Me In Social Media:
+## 📨 Find Me In Social Media:
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurd11nchik@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___kasym/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/kasym-rakhmatyllo-638550312/)
@@ -10,7 +6,7 @@ ___
 
 ---
 
-## :hammer_and_wrench: Technical stack:
+## 🧰Technical stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -34,15 +30,23 @@ ___
 
 ---
 
+## 📊Stats:
 
-## :bar_chart: Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=kasym-r&show_icons=true&theme=slateorange)
+![](https://github-readme-stats.vercel.app/api?username=kasym-r&show_icons=true&theme=dracula)
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=kasym-r&amp;theme=slateorange)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kasym-r&amp;theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&layout=compact&theme=slateorange)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&layout=compact&theme=dracula)
 
+___
 
 ## 🏆 Github Achievements:
 [![trophy](https://github-profile-trophy.vercel.app/?username=kasym-r&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+___
+
+### 💡Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+___
+
+[![](https://visitcount.itsvg.in/api?id=kasym-r&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
