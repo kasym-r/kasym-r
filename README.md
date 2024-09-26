@@ -1,19 +1,12 @@
 ## Welcome!
+
 ___
+
 # 📨 Find Me In Social Media:
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurd11nchik@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___kasym/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/kasym-rakhmatyllo-638550312/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kasym_qq)
-
-
-
----
-
-## :man_technologist: About me:
-
-I'm Kasym from Kygryzstan, and I'm really passionate about coding and creating beautiful and multifunctional websites with responsive design. I have an experience in creating various landing pages, e-commerce websites,
-etc. (with responsive design ofc.). Additionally, I have some background in working with css preprocessors like SASS and css frameworks like Tailwind. I also created websited using React via using Next.js or TypeScript as well. Always glad to execute your queries.
 
 ---
 
@@ -41,6 +34,7 @@ etc. (with responsive design ofc.). Additionally, I have some background in work
 
 ---
 
+
 ## :bar_chart: Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=kasym-r&show_icons=true&theme=slateorange)
@@ -49,3 +43,6 @@ etc. (with responsive design ofc.). Additionally, I have some background in work
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&layout=compact&theme=slateorange)
 
+
+## 🏆 Github Achievements:
+[![trophy](https://github-profile-trophy.vercel.app/?username=kasym-r&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
