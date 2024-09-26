@@ -1,10 +1,12 @@
 ## 📨 Find Me In Social Media:
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurd11nchik@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___kasym/)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/kasym-rakhmatyllo-638550312/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kasym_qq)
+<div align="center">
+  
+  [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasymrakhmatyllo@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___kasym/)
+  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasym-rakhmatyllo-638550312/)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kasym_qq)
 
----
+</div>
 
 ## 🧰Technical stack:
 <div align="center">
@@ -22,6 +24,12 @@
           <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
         </a>
         <br>CSS
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="JavaScript" width="50" height="50"/>
+        </a>
+        <br>SASS
       </td>
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
