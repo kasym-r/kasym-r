@@ -7,25 +7,61 @@
 ---
 
 ## 🧰Technical stack:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="Antdesign" alt="Antdesign" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://nextjs.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://tailwindcss.com/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://reactjs.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+        </a>
+        <br>React
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.typescriptlang.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://jquery.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
+        </a>
+        <br>jQuery
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ---
