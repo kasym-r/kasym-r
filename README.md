@@ -1,6 +1,6 @@
-## 📨 Find Me In Social Media:
 <div align="center">
   
+## 📨 Find Me In Social Media:
   [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasymrakhmatyllo@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___kasym/)
   [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasym-rakhmatyllo-638550312/)
@@ -8,8 +8,9 @@
 
 </div>
 
-## 🧰Technical stack:
 <div align="center">
+  
+## 🧰Technical stack:
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <tbody>
     <tr>
@@ -72,26 +73,30 @@
 </table>
 </div>
 
----
 
-## 📊Stats:
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=kasym-r&show_icons=true&theme=dracula)
+## 📊 Stats:
+  ![](https://github-readme-stats.vercel.app/api?username=kasym-r&show_icons=true&theme=dracula)
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=kasym-r&amp;theme=dracula)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=kasym-r&amp;theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&layout=compact&theme=dracula)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&layout=compact&theme=dracula)
 
-___
+</div>
+
+<div align="center">
 
 ## 🏆 Github Achievements:
-[![trophy](https://github-profile-trophy.vercel.app/?username=kasym-r&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-___
+  [![trophy](https://github-profile-trophy.vercel.app/?username=kasym-r&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+<div align="center">
 
 ### 💡Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-___
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/kasym-r/count.svg" />
