@@ -48,5 +48,7 @@ ___
 ### 💡Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ___
-
-[![](https://visitcount.itsvg.in/api?id=kasym-r&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kasym-r/count.svg" />
+</p>
