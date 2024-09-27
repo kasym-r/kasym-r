@@ -95,11 +95,17 @@
 
 ## 🏆 Github Achievements:
   [![trophy](https://github-profile-trophy.vercel.app/?username=kasym-r&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
 <div align="center">
+  
+## 🏅Leetcode Stats:
+  <img src="https://leetcard.jacoblin.cool/dev_kasym?theme=light&font=Open%20Sans">
+</div>
 
-### 💡Random Dev Quote:
+<div align="center">
 
+## 💡Random Dev Quote:
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
