@@ -14,6 +14,11 @@
 
 </div>
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/kasym-r/count.svg" />
+</p>
+
 <div align="center">
   
 ## 🧰Technical stack:
@@ -108,8 +113,3 @@
 ## 💡Random Dev Quote:
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kasym-r/count.svg" />
-</p>
