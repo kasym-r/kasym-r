@@ -105,7 +105,7 @@
 <div align="center">
   
 ## 🏅Leetcode Stats:
-  <img src="https://leetcard.jacoblin.cool/dev_kasym?theme=nord&font=Open%20Sans">
+  <img src="https://leetcard.jacoblin.cool/dev_kasym?theme=dark&font=Open%20Sans">
 </div>
 
 <div align="center">
