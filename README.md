@@ -14,8 +14,8 @@
 </div>
 
 <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/kasym-r/count.svg" />
+  <!-- Visitors count<br> -->
+  <!-- <img src="https://profile-counter.glitch.me/kasym-r/count.svg" /> -->
 </p>
 
 <div align="center">
