@@ -93,13 +93,6 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&layout=compact&theme=dracula)
 
 </div>
-
-<div align="center">
-
-## 🏆 Github Achievements:
-  [![trophy](https://github-profile-trophy.vercel.app/?username=kasym-r&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
 <div align="center">
   
 ## 🏅Leetcode Stats:
