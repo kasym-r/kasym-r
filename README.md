@@ -82,17 +82,6 @@
   </tbody>
 </table>
 </div>
-
-<div align="center">
-
-## 📊 Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=kasym-r&show_icons=true&theme=dracula)
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=kasym-r&amp;theme=dracula)
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kasym-r&layout=compact&theme=dracula)
-
-</div>
 <div align="center">
   
 ## 🏅Leetcode Stats:
