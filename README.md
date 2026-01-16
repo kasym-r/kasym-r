@@ -84,11 +84,7 @@
 </div>
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasym-r/kasym-r/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasym-r/kasym-r/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Jagoda11/Jagoda11/output/github-snake.svg">
-</picture>
+![snake gif](https://github.com/kasym-r/kasym-r/blob/output/github-snake-dark.svg)
   
 ## 🏅Leetcode Stats:
   <img src="https://leetcard.jacoblin.cool/dev_kasym?theme=nord&font=Open%20Sans">
