@@ -1,7 +1,7 @@
 <h1 align="center">✨You're welcome🧑‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Frontend+Developer;Enthusiast;Active+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Frontend+Developer;Enthusiast;Learning+Everyday" alt="Typing SVG" />
 </p>
 
 <div align="center">
