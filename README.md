@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-
+ 
 ## 📨 Find Me In Social Media:
   [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasymrakhmatyllo@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___kasym/)
