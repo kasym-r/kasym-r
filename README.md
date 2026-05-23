@@ -78,7 +78,10 @@
         </a>
         <br>Next.js
       </td>
-      <td align="center" style="border: none;">
+    </tr>
+  </tbody>
+  <tbody>
+    <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
           <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
         </a>
@@ -132,9 +135,7 @@
         </a>
         <br>Redis
       </td>
-    </tr>
   </tbody>
-  
 </table>
 </div>
 <div align="center">
