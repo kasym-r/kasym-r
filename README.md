@@ -78,8 +78,6 @@
         </a>
         <br>Next.js
       </td>
-    </tr>
-    <tr>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
           <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
