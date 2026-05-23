@@ -149,11 +149,11 @@
 
 <img src="https://raw.githubusercontent.com/USERNAME/REPO/output/ocean.gif" />
   
-## 🏅Leetcode Stats:
-  <img src="https://leetcard.jacoblin.cool/dev_kasym?theme=nord&font=Open%20Sans">
-</div>
+<!--## 🏅Leetcode Stats:
+<!--  <img src="https://leetcard.jacoblin.cool/dev_kasym?theme=nord&font=Open%20Sans">
+<!-- </div> -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ## 💡Random Dev Quote:
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
