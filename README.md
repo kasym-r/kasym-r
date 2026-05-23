@@ -61,7 +61,7 @@
         <br>React
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
+        <a href="https://redux.js.org/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="50" height="50"/>
         </a>
         <br>Redux
@@ -82,55 +82,55 @@
   </tbody>
   <tbody>
     <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+        <a href="https://www.python.org/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
         </a>
         <br>Python
       </td>
       <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
+        <a href="https://www.docker.com/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker"/>
         </a>
         <br>Docker
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+        <a href="https://restfulapi.net/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RestAPI" width="50" height="50"/>
         </a>
         <br>RestAPI
       </td>
       <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
+        <a href="https://cloud.google.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/>
         </a>
         <br>GCP
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
+        <a href="https://fastapi.tiangolo.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50"/>
         </a>
         <br>FastAPI
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
+        <a href="https://firebase.google.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/>
         </a>
         <br>Firebase
       </td>
       <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
+        <a href="https://git-scm.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
         </a>
         <br>Git
       </td>
       <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
+        <a href="https://www.postgresql.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="postgres"/>
         </a>
         <br>PostgreSQL
       </td>
       <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
+        <a href="https://redis.io/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="redis"/>
         </a>
         <br>Redis
