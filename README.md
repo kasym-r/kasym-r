@@ -14,8 +14,6 @@
 </div>
 
 <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/kasym-r/count.svg" />
   Fullstack Developer with commercial experience in React, Next.js and FastAPI.
 </p>
 <p align="center">
