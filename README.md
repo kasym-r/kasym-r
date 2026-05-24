@@ -1,4 +1,4 @@
-<h1 align="center">You're welcome!!!🧑‍💻</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Software+Engineer;Building+Scalable+Applications;Open+to+New+Opportunities;Learning+Everyday" alt="Typing SVG" />
