@@ -16,6 +16,11 @@
 <p align="center"> 
   <!-- Visitors count<br> -->
   <!-- <img src="https://profile-counter.glitch.me/kasym-r/count.svg" /> -->
+  Fullstack Developer with commercial experience in React, Next.js and FastAPI.
+
+  Currently working on production web applications, admin systems and internal tools.
+
+  Interested in frontend architecture, performance optimization and scalable web systems.
 </p>
 
 <div align="center">
